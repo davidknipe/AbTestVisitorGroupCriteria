@@ -3,7 +3,7 @@
   <metadata>
     <id>AbTestVisitorGroupCriteria</id>
     <title>Episerver Visitor Group Criteria for Episerver A/B testing</title>
-    <version>11.0.0</version>
+    <version>11.1.0</version>
     <authors>David Knipe</authors>
     <owners>David Knipe</owners>
     <licenseUrl>https://github.com/davidknipe/AbTestVisitorGroupCriteria/blob/master/LICENSE</licenseUrl>
@@ -11,7 +11,7 @@
    	<iconUrl>https://www.david-tec.com/global/media/visitorgroupsforabtests/abtestvisitorgroupcriteria.png?v=1.0.0</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Visitor Group criteria for Episerver that can be used to personalise content based on a running A/B test.</description>
-    <releaseNotes>v11 Episerver 11 compatibility</releaseNotes>
+    <releaseNotes>v11.1 Ensures only active tests are displayed</releaseNotes>
     <tags>Episerver VisitorGroups Personalisation A/BTesting AbTestVisitorGroupCriteria</tags>
     <dependencies>
       <dependency id="EPiServer.Marketing.Testing" version="[2.5, 3.0)" />
